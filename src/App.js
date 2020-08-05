@@ -34,6 +34,6 @@ class Ticker extends Component {
       </div>
     );
   }
-}
+};
 
 export default Ticker;
